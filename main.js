@@ -1,4 +1,5 @@
-var c=document.getElementById("myCanvas");
-var ctx=c.getContext("2d");
-ctx.rect(20,20,150,100);
-ctx.stroke();
+console.log("Whats crackin");
+
+$(document).ready(function() {
+    console.log("jquery is  running my guy");
+});
